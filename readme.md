@@ -2,5 +2,7 @@
 este es mi repositorio
 
 *l1
-*hola
-*el3
+*hol
+#como usar
+./hola.py
+no sirve
